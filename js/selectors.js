@@ -10,6 +10,6 @@ function ninjaBabySelector() {
 function divSelector() {
   ;
 }
-function paragraphSelector() {
+function firstListItem() {
   ;
 }
