@@ -7,7 +7,7 @@ function lastImageSelector() {
 function ninjaBabySelector() {
   ;
 }
-function lastImageSelector() {
+function divSelector() {
   ;
 }
 function paragraphSelector() {
