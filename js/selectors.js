@@ -11,5 +11,5 @@ function divSelector() {
   $('div');
 }
 function firstListItem() {
-  ;
+  $('ul li');
 }
